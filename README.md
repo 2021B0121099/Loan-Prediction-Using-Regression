@@ -26,7 +26,7 @@ We've evaluated the model's performance using metrics.
 
 # Getting Started
 ## Prerequisites
-Python 
+Python
 Jupyter Notebook 
 
 # Usage
